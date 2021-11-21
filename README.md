@@ -1,4 +1,6 @@
-## [Expense_Tracker!](https://expense-tracker-by-dhinesh986.netlify.app)
+#EXPENSE_TRACKER:
+
+## [Tracker](https://expense-tracker-by-dhinesh986.netlify.app) Your Expenses here!
 
 ![alert image](https://i.ibb.co/z2DDYSz/money.png)
 
